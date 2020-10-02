@@ -10,7 +10,7 @@ body{
     border: 5,5,white;
     color: white;
     padding: 15px 32px;
-    position:fixed;
+    position:sticky;
     top:30%;
     left:42%;
     text-decoration: none;
@@ -23,7 +23,7 @@ body{
     border: 5,5,white;
     color: white;
     padding: 15px 32px;
-    position:fixed;
+    position:sticky;
     top:30%;
     left:50%;
     text-decoration: none;
