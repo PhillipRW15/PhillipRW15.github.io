@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(169, 74, 247); 
+}
+#center{
+    font-family: cursive;
+    text-align:center;
+}
+#button{
+    background-color: green; 
+    border: 5,5,white;
+    color: white;
+    padding: 15px 32px;
+    position:fixed;
+    top:30%;
+    left:45%;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:12px;
+}
+#reset{
+    background-color: #FF0000; 
+    border: 5,5,white;
+    color: white;
+    padding: 15px 32px;
+    position:fixed;
+    top:30%;
+    left:50%;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:12px;
+}
+#jokes{
+    text-align:center;
+    font-family: cursive;
+}
+#dad{
+    position:fixed;
+    top:40%;
+    left:39%;
+}
